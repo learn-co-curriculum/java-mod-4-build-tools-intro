@@ -36,7 +36,8 @@ Maven and Gradle are two popular build automation tools.
 
 - Maven is based on developing Java projects. Gradle is based on developing
 domain-specific language (DSL) projects and can build applications of any kind, including Java.
-- Maven uses XML to structure a project. Gradle uses a DSL based on Groovy or Kotlin.  
+- Maven uses XML to structure a project. Gradle uses a DSL based on Groovy or Kotlin, which are
+  Java-like languages that compile to Java Virtual Machine (JVM) bytecode.  
 - Gradle is faster than Maven in terms of project build and execution.
 - Maven has been around much longer than Gradle and is currently the most popular build tool.
 
